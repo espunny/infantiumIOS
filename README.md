@@ -4,7 +4,7 @@ infantiumIOS
 Connect your IOS APPS With Infantium API (NO ARC)
 
 Versión API alpha 0.1
-//primera aproximación sin depurar. En fase experimental.
+//Fase experimental.
 
 ficheros:
 infantiumAPI.h
