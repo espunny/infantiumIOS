@@ -21,6 +21,8 @@ Propiedades
     @property (nonatomic, retain)infantiumAPI *infantiumAPIHTTP;
 
 1.Creación del jugador:
+
+
     //Verifico en UserDefaults que edad tiene el niño, si no está registrada le añado la edad
     NSUserDefaults *standardUserDefaults = [NSUserDefaults standardUserDefaults];
     NSNumber *age = nil;
